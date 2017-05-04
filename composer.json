@@ -3,6 +3,7 @@
     "description": "FTP adapter for Gaufrette",
     "type": "metapackage",
     "require": {
+        "ext-ftp": "*",
         "knplabs/gaufrette": "^0.3"
     },
     "authors": [
